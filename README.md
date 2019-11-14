@@ -6,6 +6,7 @@ A simple Spring Boot webapp using:
 
 
 Link to GitHub pages: https://raymonddeng99.github.io/lab07-raymonddeng99/
+Link to Heroku website: https://cs56-f19-lab07-raymonddeng99.herokuapp.com/
 
 
 
